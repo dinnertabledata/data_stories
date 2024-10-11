@@ -19,6 +19,11 @@ import xlwings as xw
 import pandas as pd
 import numpy as np
 
+# Data Viz
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mtick
+import matplotlib.ticker as ticker
+import seaborn as sns
 
 #########################################################################
 # 1. General

@@ -59,4 +59,5 @@ yarn-error.log*
 # Ignore data files
 *.csv
 *.xlsx
+*.p
 *.png

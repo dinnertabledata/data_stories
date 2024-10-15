@@ -135,7 +135,11 @@ def plotly_scatter_v1(df, config):
         ),
         width=width,  # Set width to maintain square shape
         height=height,  # Set height to maintain square shape
+        margin=dict(l=40, r=40, t=40, b=40),
     )
 
     # Show the plot
     fig.show()
+
+    # Return
+    return fig

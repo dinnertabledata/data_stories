@@ -27,7 +27,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
-
+from plotly.subplots import make_subplots
 
 #########################################################################
 # 1. General
